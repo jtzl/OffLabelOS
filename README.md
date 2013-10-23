@@ -8,8 +8,9 @@ newest Virtualbox, but version 4.2.18 with Vagrant version 1.3.3 worked for me,
 as well as VirtualBox 4.2.4 with Vagrant version 1.2.2.  If you use different
 versions, please post your results to the comments.
 
-After you have downloaded and installed VirtualBox and Vagrant, you to download
-and unzip the olos.zip file, hopefully by downloading it via torrent.
+After you have downloaded and installed VirtualBox and Vagrant, you should first
+download and unzip the olos.zip file, which is available freely and legally via
+torrent.
 
 Once you have unzipped olos.zip, you need to get into the command line interface
 to start vagrant.  If you are on Mac or Linux, start your terminal and use the
