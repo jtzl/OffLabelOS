@@ -1,8 +1,4 @@
-                                                      
- _____ ___ ___     __        _       _    _____ _____ 
-|     |  _|  _|___|  |   ___| |_ ___| |  |     |   __|
-|  |  |  _|  _|___|  |__| .'| . | -_| |  |  |  |__   |
-|_____|_| |_|     |_____|__,|___|___|_|  |_____|_____|
+Off-Label OS
 ==========
 
 Off-Label OS is a different kind of software experience:  part puzzle, part
