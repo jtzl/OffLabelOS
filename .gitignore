@@ -1,1 +1,3 @@
 *.box
+.vagrant
+readme_cache/.git/
