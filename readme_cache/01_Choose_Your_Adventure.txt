@@ -1,0 +1,58 @@
+Choose your Off-Label Adventure
+
+In a sense, it seems impossible to actually have an Off-Label operating system,
+since the purpose of the operating system is ostensibly to serve as a platform
+from which you can do what you wish as a user.  In practice, of course, most
+people have only experienced proprietary operating system software, which most
+commonly functions more like cable television than the Internet, as user
+experience is completely divorced from the underlying technology, and product
+features are designed to accommodate users rather than improve their skills or
+encourage them to learn something new.
+
+In a Democracy (or democratic republic or public opinion junta or whatever),
+when a majority of users are ignorant or ignorant and scared or scared and
+unskilled, etc, it can have calamitous effects on laws related to technology.
+Off the top of my head, it seems pretty messed up that people are incarcerated
+for violating Terms of Service agreements.  It seems pretty messed up that
+people do time for accessing publicly-accessible URLs.  This is likely a
+minority opinion, however, because most people haven't been educated otherwise.
+But I'll spare you the handwringing.
+
+In no particular order, here are your adventure options for Off-Label OS v0.1:
+
+x.  Graphics-editing workstation.  I tested just now and GIMP, the terribly-
+    named image editor, works with my Wacom tablet out of the box, and I saved a
+    few pictures in the Pictures directory for you to mess with if you're in the
+    mood for making some fine art.
+
+x.  Scavenger hunt.  I have put clues in semi-obvious-but-probably-still-hard-
+    to-find places on this system, which will provide you keys or passphrases
+    that will enable you to connect to remote services and/or decrypt local
+    directories.  For v0.1, I hope it's not too easy or too hard; submit an
+    issue on github if you have an opinion on the level of difficulty and check
+    offlabelos.com for hints.
+
+x.  Platform for inquiry and discovery.  I loaded up this system with content
+    that I either made or had stored on hard drives throughout the years; I have
+    kept all media files under the Vagrant home dir for purposes of clarity,
+    but there is also content to be found in the form of browser histories,
+    bash_history, maybe hidden in images, etc.
+
+x.  Linux workstation.  This is a fully-functional clean Ubuntu 12.04.3 LTS
+    image with XFCE and a small footprint of 3rd party dependencies.  If you
+    have always wanted to just learn Linux (or how to configure Django or Rails
+    or security cameras or whatever), you can use this system for development.
+
+Drawbacks and Limitations of v0.1:
+
+x.  VirtualBox only for now.
+
+x.  I was unable to get audio working on my Ubuntu (Thinkpad) host.  YMMV.  On
+    Mac hosts, you may be able to get it working with the coreaudio param
+    enabled in your Vagrantfile but because I couldn't make it work, I'm not
+    offering any audio features or content in this version.
+
+x.  I also can't seem to get copy and paste to work in my VM's terminal while
+    working on an Ubuntu host.  I think this may be an XFCE issue.  Remember,
+    though--this is a vagrant image, so you can 'vagrant ssh' on your host and
+    use your local terminal to copy and paste.

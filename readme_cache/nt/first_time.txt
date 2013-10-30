@@ -1,0 +1,13 @@
+[*** THIS MESSAGE WILL BE DISPLAYED ONLY ONCE! ***]
+
+Hey there and welcome to the bash shell.
+
+If you're not already familiar with the shell (aka command
+line interface aka terminal), open "shell_tutorial.txt" in
+your Home folder first.
+
+If you're an experienced Linux command line user already,
+you will notice a couple different encrypted items on this
+system; you can find the passphrases to their keys within
+this image, but you have to get kind a little meta.  Hmm,
+maybe I've said too much.
