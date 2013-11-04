@@ -40,8 +40,7 @@ Gonna get right to it, eh?  Don't forget, [you accept responsibility for yoursel
 
 Command-line time:
 
-* `gpg --recv-keys 8F1D6125`
-      (key fingerprint 2011 83C3 1C8D B187 D019  2065 0040 1F2F 8F1D 6125)
+* `gpg --recv-keys 8F1D6125` (2011 83C3 1C8D B187 D019  2065 0040 1F2F 8F1D 6125)
 * `gpg --verify OffLabelOS.sig OffLabelOS.zip`
 * `unzip OffLabelOS.zip`
 * `cd OffLabelOS`
