@@ -18,7 +18,7 @@ Installation
 
 After installing VirtualBox and Vagrant, download and unzip the [OffLabelOS.zip](http://offlabelos.com/OffLabelOS.zip.torrent) file, which is available freely and legally via torrent.
 
-Before unzipping OffLabelOS.zip, it's a good idea to verify that your .zip file is the same one that I uploaded, which you can by verifying the pgp signature, probably by using gpg.  [Download the key here](http://offlabelos.com/OffLabelOS.sig).  [Learn how to verify key signatures here](http://offlabelos.com/2013/11/03/pgp-keys-with-gpg/).
+Before unzipping OffLabelOS.zip, it's a good idea to verify that your .zip file is the same one that I uploaded, which you can by verifying the pgp signature, probably by using gpg.  [Download the key here](http://offlabelos.com/OffLabelOS.sig).  Learn how to [verify key signatures here](http://offlabelos.com/2013/11/03/pgp-keys-with-gpg/).
 
 After unzipping OffLabelOS.zip, you need to use the command-line interface to start vagrant, but this is super-simple so don't give up yet; you've come so far...  When you launch your command-line terminal, use the `cd` command to get to the directory where the unzipped OffLabelOS directory lives (probably ~/Downloads/OffLabelOS).  Once there, enter `vagrant box add OffLabelOS_v001 OffLabelOS_v001.box` at the prompt and press return.  This loads the OLOS vagrant ".box" file into VirtualBox and makes it accessible via Vagrant.
 
