@@ -3,5 +3,5 @@ EULA
 OffLabel OS is experimental software and could go horribly wrong at any given
 moment.  When you choose to download and/or install OffLabel OS, you accept
 complete and total responsibility for your computer and yourself and you hold
-harmless everyone but yourself, though you will hopefully forgive yourself, too,
-because there's no reason to carry resentment through life.
+harmless everyone but yourself, though you ought to forgive yourself, too;
+there's no good reason to carry resentment through life.
