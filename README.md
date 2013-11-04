@@ -12,6 +12,7 @@ Off-Label OS runs as a virtualized operating system in your computer (*in* the c
 
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * [Vagrant](http://downloads.vagrantup.com)
+* [OffLabelOS.zip](http://offlabelos.com/OffLabelOS.zip.torrent)
 
 If you're totally confused, check out the video at [offlabelos.com](http://offlabelos.com/2013/11/01/getting-started-with-olos-part-1-fulfilling-dependencies/).  If you're a little confused but tech savvy-ish, install VirtualBox and then Vagrant.  Personally, I've had problems with the newest Virtualbox but have successfully used Off-Label OS with VirtualBox v 4.2.18 with Vagrant 1.3.3 and VirtualBox 4.2.4 with Vagrant 1.2.2.  If you use different versions, please share the details!
 
