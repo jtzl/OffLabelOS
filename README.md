@@ -1,7 +1,7 @@
 Off-Label OS
 ==========
 
-Off-Label OS is an adventure in technology, a new kind of software experience--part puzzle, part poetry.  The best way to learn, of course, is to do.  To get started, you need to install some software first.
+Off-Label OS is an adventure in technology, a new kind of software experience--part puzzle, part poetry.  It's a little hard to explain concisely at the moment, but think of it as an open-ended computer game in which the computer is the game.  Maybe think of it like you found a random computer, unlocked and running.  What do you do?  The best way to get a sense of it, of course, is to do.  To get started, you need to install some software first.
 
 Dependencies
 -----------
@@ -25,3 +25,17 @@ After unzipping OffLabelOS.zip, you need to use the command-line interface to st
 Finally, type `vagrant up` in this same directory and press return.  At this point, a new window from VirtualBox should pop open and start to load Off-Label OS and eventually present you with a login prompt.
 
 If you get this far, email me for the login / pass:  offlabelos@gmail.com  (v1 luddite metrics-gathering strategy)
+
+
+Just the facts
+===============
+So you just want the simple instructions, huh?
+
+* Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (4.2.x seems to be good)
+* Download [Vagrant](http://downloads.vagrantup.com) (1.2.x or 1.3.x both seem to work)
+* Download [OffLabelOS.zip](http://offlabelos.com/OffLabelOS.zip.torrent) (1.8GB)
+* Download [OffLabelOS.sig]((http://offlabelos.com/OffLabelOS.sig) (then d/l key & gpg verify)
+* Unzip OffLabelOS.zip
+* cd OffLabelOS
+* vagrant box add OffLabelOS_v001 OffLabelOS_v001.box
+* vagrant up
