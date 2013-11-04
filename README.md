@@ -34,8 +34,13 @@ So you just want the simple instructions, huh?
 * Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (4.2.x seems to be good)
 * Download [Vagrant](http://downloads.vagrantup.com) (1.2.x or 1.3.x both seem to work)
 * Download [OffLabelOS.zip](http://offlabelos.com/OffLabelOS.zip.torrent) (1.8GB)
-* Download [OffLabelOS.sig]((http://offlabelos.com/OffLabelOS.sig) (then d/l key & gpg verify)
-* Unzip OffLabelOS.zip
-* cd OffLabelOS
-* vagrant box add OffLabelOS\_v001 OffLabelOS\_v001.box
-* vagrant up
+* Download [OffLabelOS.sig]((http://offlabelos.com/OffLabelOS.sig)
+
+Command-line time:
+
+* `gpg --recv-keys 8F1D6125` (fingerprint 2011 83C3 1C8D B187 D019  2065 0040 1F2F 8F1D 6125)
+* `gpg --verify OffLabelOS.sig OffLabelOS.zip`
+* `unzip OffLabelOS.zip`
+* `cd OffLabelOS`
+* `vagrant box add OffLabelOS_v001 OffLabelOS_v001.box`
+* `vagrant up`
