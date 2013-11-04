@@ -23,3 +23,5 @@ Before unzipping OffLabelOS.zip, it's a good idea to verify that your .zip file 
 After unzipping OffLabelOS.zip, you need to use the command-line interface to start vagrant, but this is super-simple so don't give up yet; you've come so far...  When you launch your command-line terminal, use the `cd` command to get to the directory where the unzipped OffLabelOS directory lives (probably ~/Downloads/OffLabelOS).  Once there, enter `vagrant box add OffLabelOS_v001 OffLabelOS_v001.box` at the prompt and press return.  This loads the OLOS vagrant ".box" file into VirtualBox and makes it accessible via Vagrant.
 
 Finally, type `vagrant up` in this same directory and press return.  At this point, a new window from VirtualBox should pop open and start to load Off-Label OS and eventually present you with a login prompt.
+
+If you get this far, email me for the login / pass:  offlabelos@gmail.com  (v1 luddite metrics-gathering strategy)
