@@ -31,7 +31,7 @@ If you get this far, email me for the login / pass:  offlabelos@gmail.com  (v1 l
 
 Just the facts
 ===============
-So you just want the simple instructions, huh?
+Gonna get right to it, eh?  Don't forget, [you accept responsibility for yourself and your systems](https://github.com/jtzl/OffLabelOS/blob/master/LICENSE.txt)
 
 * Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (4.2.x seems to be good)
 * Download [Vagrant](http://downloads.vagrantup.com) (1.2.x or 1.3.x both seem to work)
