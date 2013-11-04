@@ -1,6 +1,8 @@
 Off-Label OS
 ==========
 
+([Hotshot instructions](https://github.com/jtzl/offlabelos#just-the-facts))
+
 Off-Label OS is an adventure in technology, a new kind of software experience--part puzzle, part poetry.  It's a little hard to explain concisely at the moment, but think of it as an open-ended computer game in which the computer is the game.  Maybe think of it like you found a random computer, unlocked and running.  What do you do?  The best way to get a sense of it, of course, is to do.  To get started, you need to install some software first.
 
 Dependencies
