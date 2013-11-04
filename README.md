@@ -37,5 +37,5 @@ So you just want the simple instructions, huh?
 * Download [OffLabelOS.sig]((http://offlabelos.com/OffLabelOS.sig) (then d/l key & gpg verify)
 * Unzip OffLabelOS.zip
 * cd OffLabelOS
-* vagrant box add OffLabelOS_v001 OffLabelOS_v001.box
+* vagrant box add OffLabelOS\_v001 OffLabelOS\_v001.box
 * vagrant up
