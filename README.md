@@ -7,6 +7,9 @@ Off-Label OS is an adventure in technology, a new kind of software experience--p
 
 Requirements
 -----------
+
+Before downloading or installing anything, be sure to have/do the following:
+
 * Modern computer (Mac / Win / Linux)
 * 4GB+ RAM
 * 6GB+ free disk space (at the very least)
