@@ -10,7 +10,7 @@ Requirements
 * Modern computer (Mac / Win / Linux)
 * 4GB+ RAM
 * 6GB+ free disk space (at the very least)
-* Agree to [https://github.com/jtzl/OffLabelOS/blob/master/LICENSE.txt](EULA)
+* Agree to [EULA](https://github.com/jtzl/OffLabelOS/blob/master/LICENSE.txt)
 
 Dependencies
 -----------
