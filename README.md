@@ -47,7 +47,7 @@ Gonna get right to it, eh?  Don't forget, [you accept responsibility for yoursel
 * Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (4.2.x seems to be good)
 * Download [Vagrant](http://downloads.vagrantup.com) (1.2.x or 1.3.x both seem to work)
 * Download [OffLabelOS.zip](http://offlabelos.com/OffLabelOS.zip.torrent) (1.8GB via torrent)
-* Download [OffLabelOS.sig]((http://offlabelos.com/OffLabelOS.sig)
+* Download [OffLabelOS.sig](http://offlabelos.com/OffLabelOS.sig)
 
 Command-line time:
 
