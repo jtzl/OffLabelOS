@@ -1,4 +1,4 @@
-EULA
+END USER LICENSE AGREEMENT (EULA)
 
 OffLabel OS is experimental software and could go horribly wrong at any given
 moment.  When you choose to download and/or install OffLabel OS, you accept
