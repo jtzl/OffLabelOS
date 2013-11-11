@@ -44,8 +44,8 @@ Just the facts
 ===============
 Gonna get right to it, eh?  Don't forget, [you accept responsibility for yourself and your systems](https://github.com/jtzl/OffLabelOS/blob/master/LICENSE.txt)
 
-* Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (4.2.x seems to be good)
-* Download [Vagrant](http://downloads.vagrantup.com) (1.2.x or 1.3.x both seem to work)
+* Download & Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (4.2.x seems to be good)
+* Download & Install [Vagrant](http://downloads.vagrantup.com) (1.2.x or 1.3.x both seem to work)
 * Download [OffLabelOS.zip](http://offlabelos.com/OffLabelOS.zip.torrent) (1.8GB via torrent)
 * Download [OffLabelOS.sig](http://offlabelos.com/OffLabelOS.sig)
 
