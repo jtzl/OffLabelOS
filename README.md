@@ -48,6 +48,7 @@ Gonna get right to it, eh?  Don't forget, [you accept responsibility for yoursel
 * Download & Install [Vagrant](http://downloads.vagrantup.com) (1.2.x or 1.3.x both seem to work)
 * Download [OffLabelOS.zip](http://offlabelos.com/OffLabelOS.zip.torrent) (2GB via torrent)
 * Download [OffLabelOS.sig](http://offlabelos.com/OffLabelOS.sig)
+(See [valid signatures here](https://github.com/jtzl/OffLabelOS/blob/master/CHANGELOG.md))
 
 Command-line time:
 
