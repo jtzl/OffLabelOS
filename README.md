@@ -1,5 +1,5 @@
-README.md
-==========
+README
+======
 
 ([Hotshot instructions](https://github.com/jtzl/offlabelos#just-the-facts))
 
