@@ -1,4 +1,4 @@
-Off-Label OS
+README.md
 ==========
 
 ([Hotshot instructions](https://github.com/jtzl/offlabelos#just-the-facts))
