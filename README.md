@@ -12,7 +12,7 @@ Before downloading or installing anything, be sure to have/do the following:
 
 * Modern computer (Mac / Win / Linux -- my 1.6GHz i5 laptop suffices)
 * 4GB+ RAM
-* 6GB+ free disk space (at the very least)
+* 8GB+ free disk space (at the very least)
 * Agree to [EULA](https://github.com/jtzl/OffLabelOS/blob/master/LICENSE.txt)
 
 Dependencies
@@ -20,8 +20,8 @@ Dependencies
 
 Off-Label OS runs as a virtualized operating system in your computer (*in* the computer??).  To make it run, you need:
 
-* [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (4.3.x)
-* [Vagrant](http://downloads.vagrantup.com/tags/v1.3.5) (1.3.5)
+* [VirtualBox](https://www.virtualbox.org/wiki/Download_Old_Builds_4_2) (v4.2.18)
+* [Vagrant](http://downloads.vagrantup.com/tags/v1.3.5) (v1.3.5)
 * [OffLabelOS.zip](http://offlabelos.com/OffLabelOS.zip.torrent)
 
 If you're totally confused, check out the [video at OffLabelOS.com](http://offlabelos.com/2013/11/01/getting-started-with-olos-part-1-fulfilling-dependencies/).  If you're a little confused but tech savvy-ish, install VirtualBox and then Vagrant.
@@ -44,8 +44,8 @@ Just the facts
 ===============
 Gonna get right to it, eh?  Don't forget, [you accept responsibility for yourself and your systems](https://github.com/jtzl/OffLabelOS/blob/master/LICENSE.txt)
 
-* Download & Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (4.2.x+)
-* Download & Install [Vagrant](http://downloads.vagrantup.com) (1.3.x+)
+* Download & Install [VirtualBox](https://www.virtualbox.org/wiki/Download_Old_Builds_4_2) (v4.2.18)
+* Download & Install [Vagrant](http://downloads.vagrantup.com/tags/v1.3.5) (v1.3.5)
 * Download [OffLabelOS.zip](http://offlabelos.com/OffLabelOS.zip.torrent) (2GB via torrent)
 * Download [OffLabelOS.sig](http://offlabelos.com/OffLabelOS.sig)
 (See [valid signatures here](https://github.com/jtzl/OffLabelOS/blob/master/CHANGELOG.md))
